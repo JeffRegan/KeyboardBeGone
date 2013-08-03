@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>29EDCC26-7417-4EC5-ACE5-C2D5DA5B47CF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WSKeyboardBeGone</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>23C1D199-6C52-4CCF-A267-C1E7E5F8CD1D</key>
+		<string>https://github.com/JeffRegan/KeyboardBeGone</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WSKeyboardBeGone/WSKeyboardBeGone.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>23C1D199-6C52-4CCF-A267-C1E7E5F8CD1D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JeffRegan/KeyboardBeGone</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>23C1D199-6C52-4CCF-A267-C1E7E5F8CD1D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>23C1D199-6C52-4CCF-A267-C1E7E5F8CD1D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KeyboardBeGone</string>
+		</dict>
+	</array>
+</dict>
+</plist>
